@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+      "react-router-dom": "^5.1.2",
+      "react-spring": "^8.0.27"
+    }
+  }
