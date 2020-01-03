@@ -1,4 +1,8 @@
+# Animated Routes CRA template
+
 This is a template for [Create React App](https://github.com/facebook/create-react-app), setting you up with Routing, powered by [React Router](https://reacttraining.com/react-router/web/) and an modern animation API, [react-spring](https://www.react-spring.io/).
+
+[![CircleCI](https://circleci.com/gh/kriswep/cra-template-animated-routes.svg?style=svg)](https://circleci.com/gh/kriswep/cra-template-animated-routes)
 
 ## Getting started
 
