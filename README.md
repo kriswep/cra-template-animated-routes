@@ -1,11 +1,5 @@
 # Animated Routes CRA template
 
-Deprecated: Moved to [@cra-community/cra-template-animated-routes](https://www.npmjs.com/package/@cra-community/cra-template-animated-routes).
-
-Use `@cra-community/cra-template-animated-routes`
-
----
-
 This is a template for [Create React App](https://github.com/facebook/create-react-app), setting you up with Routing, powered by [React Router](https://reacttraining.com/react-router/web/) and an modern animation API, [react-spring](https://www.react-spring.io/).
 
 [![CircleCI](https://circleci.com/gh/kriswep/cra-template-animated-routes.svg?style=svg)](https://circleci.com/gh/kriswep/cra-template-animated-routes)
@@ -13,6 +7,7 @@ This is a template for [Create React App](https://github.com/facebook/create-rea
 ## Getting started
 
 Bootstrap your new React app with one command (change my-app to whatever you call your project):
+
 `npx create-react-app my-app --template @cra-community/animated-routes`
 
 ## Available Scripts

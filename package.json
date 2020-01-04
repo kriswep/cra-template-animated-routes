@@ -1,6 +1,6 @@
 {
-  "name": "cra-template-animated-routes",
-  "version": "0.2.0",
+  "name": "@cra-community/cra-template-animated-routes",
+  "version": "0.2.1",
   "keywords": [
     "react",
     "create-react-app",

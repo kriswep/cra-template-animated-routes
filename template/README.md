@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and the [Animated Routes template](https://github.com/kriswep/cra-template-animated-routes#readme).
 
 ## Available Scripts
 
